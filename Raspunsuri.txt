@@ -1,0 +1,5 @@
+In aceasta iteratie, task-ul pe care l-am primit a fost sa caut informatii despre parametrii functiei SVM si sa rulez algoritmul  in mai multe variante pentru a o gasi pe cea mai optima . Pentru aceasta cerinta am modificat o pate din parametri si valoarea lor default si am realizat un tabel cu rezultatele dupa 3 rulari, in aceeasi combinatie de paramteri .
+
+ Nu am avut probleme semnificative in acest sprint, singureleau fost legate de intelegerea a functionalitatii unor parametri, deoarece nu am suficiente cunostiinte de machine learning, insa am incercat sa le acopar prin cautarea informatiilor respective explicate online  . 
+
+Pentru saptamana viitoare astept urmatorul task, in principal in urma sedintei de echipa cu scrum master-ul desemnat si a acestuia cu restul de scrum masteri si profesorul coordonator . 
